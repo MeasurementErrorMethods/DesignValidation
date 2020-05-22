@@ -6,8 +6,4 @@ We discussed sampling schemes designed for both likelihood and design-based esti
 
 It includes:
 
-\begin{itemize}
-
-\item  a
-
-\end{itemize}
+  - test
